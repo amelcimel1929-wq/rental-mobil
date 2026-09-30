@@ -4,12 +4,12 @@
               <div class="col-12">
                   <div class="d-flex justify-content-between align-items-center mb-4">
                       <div class="">
-                          <h1 class="fs-3 mb-1">Inventory</h1>
+                          <h1 class="fs-3 mb-1">Peminjam</h1>
                           <p class="mb-0">Manage your product inventory</p>
                       </div>
-                      <div>
-                          <a href="index.php?page=tambah-kategori" class="btn btn-primary">Add Product</a>
-                      </div>
+                      <!-- <div> 
+                          <a href="index.php?page=tambah-kendaraan" class="btn btn-primary">Add Product</a>
+                      </div>-->
                   </div>
               </div>
           </div>

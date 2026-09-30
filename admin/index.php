@@ -37,8 +37,35 @@
         case 'tambah-kategori':
             include 'pages/kategori/tambah.php';
             break;
+        //halaman kendaraan
+        case 'kendaraan':
+          include 'pages/kendaraan/kendaraan.php';
+          break;
+        case 'tambah-kendaraan':
+          include 'pages/kendaraan/tambah.php';
+          break;
+        //halaman penyewaan
+        case 'penyewaan':
+          include 'pages/penyewaan/penyewaan.php';
+          break;
+        case 'tambah-penyewaan':
+          include 'pages/penyewaan/tambah.php';
+          break;
+        //halaman pminjamam
+        case 'peminjam':
+          include 'pages/peminjam/peminjam.php';
+          break;
+        //halaman pembayaran
+        case 'pembayaran':
+          include 'pages/pembayaran/pembayaran.php';
+          break;
+        case 'tambah-pembayaran':
+          include 'pages/pembayaran/tambah.php';
+          break;
+        
+
         // untuk mengarahkan halaman awal yang akan dibuka
-        default:
+            default:
             include 'pages/dashboard.php';
             break;
     }

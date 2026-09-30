@@ -4,11 +4,11 @@
               <div class="col-12">
                   <div class="d-flex justify-content-between align-items-center mb-4">
                       <div class="">
-                          <h1 class="fs-3 mb-1">Add Product</h1>
+                          <h1 class="fs-3 mb-1">Kendaraan</h1>
                           <p class="mb-0">Manage your product inventory</p>
                       </div>
                       <div>
-                          <a href="index.php?page=tambah-kategori" class="btn btn-primary">Add Product</a>
+                          <a href="index.php?page=tambah-kendaraan" class="btn btn-primary">Add Product</a>
                       </div>
                   </div>
               </div>
@@ -49,7 +49,7 @@
                           </thead>
                           <tbody>
                               <tr class="align-middle ">
-                                  <td><a href=""><img src="./assets/images/product-1.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">Gaming Joy Stick</span></a>
+                                  <td><a href=""><img src="template/src/assets/images/product-1.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">Gaming Joy Stick</span></a>
                                   </td>
 
                                   <td>PRD001</td>
@@ -64,7 +64,7 @@
                                   </td>
                               </tr>
                               <tr class="align-middle">
-                                  <td><a href=""><img src="./assets/images/product-2.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">Wireless Earphones</span></a>
+                                  <td><a href=""><img src="template/src/assets/images/product-2.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">Wireless Earphones</span></a>
                                   </td>
                                   <td>PRD002</td>
                                   <td>Electronics</td>
@@ -78,7 +78,7 @@
                                   </td>
                               </tr>
                               <tr class="align-middle">
-                                  <td><a href=""><img src="./assets/images/product-3.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">Smart Watch Pro</span></a>
+                                  <td><a href=""><img src="template/src/assets/images/product-3.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">Smart Watch Pro</span></a>
                                   </td>
                                   <td>PRD003</td>
                                   <td>Electronics</td>
@@ -92,7 +92,7 @@
                                   </td>
                               </tr>
                               <tr class="align-middle">
-                                  <td><a href=""><img src="./assets/images/product-4.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">USB-C Fast Charger</span></a>
+                                  <td><a href=""><img src="template/src/assets/images/product-4.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">USB-C Fast Charger</span></a>
                                   </td>
                                   <td>PRD004</td>
                                   <td>Electronics</td>
@@ -106,7 +106,7 @@
                                   </td>
                               </tr>
                               <tr class="align-middle">
-                                  <td><a href=""><img src="./assets/images/product-5.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">Portable Bluetooth Speaker</span></a>
+                                  <td><a href=""><img src="template/src/assets/images/product-5.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">Portable Bluetooth Speaker</span></a>
                                   </td>
                                   <td>PRD005</td>
                                   <td>Electronics</td>
@@ -120,7 +120,7 @@
                                   </td>
                               </tr>
                               <tr class="align-middle">
-                                  <td><a href=""><img src="./assets/images/product-6.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">Magic Keyboard</span></a>
+                                  <td><a href=""><img src="template/src/assets/images/product-6.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">Magic Keyboard</span></a>
                                   </td>
                                   <td>PRD006</td>
                                   <td>Electronics</td>
@@ -134,7 +134,7 @@
                                   </td>
                               </tr>
                               <tr class="align-middle">
-                                  <td><a href=""><img src="./assets/images/product-7.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">MacBook Pro 16"</span></a>
+                                  <td><a href=""><img src="template/src/assets/images/product-7.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">MacBook Pro 16"</span></a>
                                   </td>
                                   <td>PRD007</td>
                                   <td>Electronics</td>
@@ -148,7 +148,7 @@
                                   </td>
                               </tr>
                               <tr class="align-middle">
-                                  <td><a href=""><img src="./assets/images/product-8.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">Wireless Earphones</span></a>
+                                  <td><a href=""><img src="template/src/assets/images/product-8.png" alt="" class="avatar avatar-md rounded" /><span class="ms-3">Wireless Earphones</span></a>
                                   </td>
                                   <td>PRD008</td>
                                   <td>Electronics</td>
